@@ -75,7 +75,7 @@ TI.19.A2
 ~~~
 ![7](https://user-images.githubusercontent.com/56241745/112868160-f0651900-90e5-11eb-8b75-44d0767bfd1c.png)
 ## LANGKAH 7
-### Membuat halaman ke 2 yg akan terhubung dengan halaman pertama menggunakana Hyperlink.
+### Membuat halaman ke 2 yg akan terhubung dengan halaman pertama menggunakan Hyperlink.
 ~~~
 <!DOCTYPE html>
 <html>
@@ -97,12 +97,12 @@ TI.19.A2
 ~~~
 Ada error ketika saya salah penulisan Heading <h1> tidak ditutup dengan </h1> jadi tidak terjadi perubahan.
 ~~~
-2. Apa perbedaan dari tag <p> dengan tag <br> berikan penjelasannya!
+2. Apa perbedaan dari tag `<p>` dengan tag `<br>` berikan penjelasannya!
 ~~~
 Dari hasil praktek saya sendiri, perbedaan  tag <br> jarak enter nya lebih jauh 1 line dibandingkan
 dengan tag <p> yg jarak enter nya tidak terlalu jauh.
 ~~~
-3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
+3. Apa perbedaan atribut title dan alt pada tag `<img>`, berikan penjelasannya!
 ~~~
 atribut tittle pada tag <img> digunakan untuk memberi judul pada gambar yg disisipkan, sedangkan
 atribut alt pada tag <img> digunakan untuk memberi deskripsi pada gambar yg disisipkan
